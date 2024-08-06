@@ -1,2 +1,2 @@
-labring/FastGPT
+alpine
 zhayujie/chatgpt-on-wechat
