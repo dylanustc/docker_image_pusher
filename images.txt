@@ -1,2 +1,2 @@
+labring/FastGPT
 zhayujie/chatgpt-on-wechat
-dylanustc/dify
