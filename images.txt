@@ -18,4 +18,3 @@ opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 myscale/myscaledb:1.6
-Stirling-Tools/Stirling-PDF
