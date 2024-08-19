@@ -1,1 +1,1 @@
-dylanustc/chatgpt-on-wechat:latest
+dylanustc/chatgpt-on-wechat
