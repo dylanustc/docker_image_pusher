@@ -4,3 +4,4 @@ mongo
 getmeili/meilisearch:v1.7.3
 ankane/pgvector:latest
 ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
+librechat/librechat
