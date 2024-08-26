@@ -1,1 +1,6 @@
-zhayujie/chatgpt-on-wechat
+ghcr.io/danny-avila/librechat-dev-api:latest
+nginx:1.27.0-alpine
+mongo
+getmeili/meilisearch:v1.7.3
+ankane/pgvector:latest
+ghcr.io/danny-avila/librechat-rag-api-dev-lite:latest
